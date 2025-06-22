@@ -1,10 +1,29 @@
-# <div align='center'>WhatsApp Web API</div>
 
-<div align='center'>
+# <img src="https://i.postimg.cc/MTPBM5RN/TSH-BUG-GOKU-V5.jpg" />
 
-![WhatsApp API](https://raw.githubusercontent.com/Drayyyxd/image/main/bgdray.jpg)
+## NE PAS REFAIRE CE SCRIPT SANS M'AVOIR DONNÉ UN CRÉDIT.
 
-</div>
+**POUR ME SOUTENIR ET M'ENCOURAGER, VEUILLEZ ME DONNER UN PETIT QUELQUE CHOSE À CE NUMÉRO :** +243974493520 
+**AIRTEL MONEY. PAYEMENT MOBILE MONEY.**
+
+*[Mon WhatsApp](https://wa.me/243974493520)*
+
+# FOLLOW MY WHATSAPP CHANNEL : 
+<a href="https://whatsapp.com/channel/0029VajjpHoGZNCsyVLRRk1f"> Abonne-toi à la chaîne WhatsApp ici. </a>
+
+
+**`MERCI BEAUCOUP À VOUS CHERS AMIS`**
+
+> **⚠️ Warning:** This Script is for educational purposes only. Misuse of this tool may result in serious legal consequences. Use responsibly.
+
+### 👨‍💻 Developed By: **[MR KÉVIN TSH](https://github.com/Kevin-Tsh)**
+
+
+
+
+
+
+<hr>
 
 **Baileys** is a WebSockets-based TypeScript library for interacting with the WhatsApp Web API.  
 This is **not the official Baileys library**, but a **modified and extended version** developed independently to add functionalities that many developers have requested. These enhancements aim to improve flexibility, offer better developer experience, and provide tools that are missing from the original version.
